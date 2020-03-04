@@ -1,6 +1,6 @@
 # Menu
  A Menu Design made using CSS grids
- Technologies Used.
+ #Technologies Used.
  1. Gsap
  2. CSS grids
  
